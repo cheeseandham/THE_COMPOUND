@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: c8cd508c44f40634cbe7c32a76a1f6e4
+timeCreated: 1499551364
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cube
+    100004: Cube.001
+    100006: tower.000
+    100008: tower.001
+    100010: tower.002
+    100012: tower.003
+    100014: BARRAC
+    100016: BUILD.001
+    100018: FENCE
+    100020: FLOOR
+    400000: //RootNode
+    400002: Cube
+    400004: Cube.001
+    400006: tower.000
+    400008: tower.001
+    400010: tower.002
+    400012: tower.003
+    400014: BARRAC
+    400016: BUILD.001
+    400018: FENCE
+    400020: FLOOR
+    2300000: Cube
+    2300002: Cube.001
+    2300004: tower.000
+    2300006: tower.001
+    2300008: tower.002
+    2300010: tower.003
+    2300012: BARRAC
+    2300014: BUILD.001
+    2300016: FENCE
+    2300018: FLOOR
+    3300000: Cube
+    3300002: Cube.001
+    3300004: tower.000
+    3300006: tower.001
+    3300008: tower.002
+    3300010: tower.003
+    3300012: BARRAC
+    3300014: BUILD.001
+    3300016: FENCE
+    3300018: FLOOR
+    4300000: Cube.001
+    4300002: tower.003
+    4300004: tower.002
+    4300006: tower.001
+    4300008: tower.000
+    4300010: Cube
+    4300012: BUILD.001
+    4300014: BARRAC
+    4300016: FENCE
+    4300018: FLOOR
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
